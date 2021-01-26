@@ -9,14 +9,15 @@ DEBUG = False  # set to True to enable useful console output
 #ROOT_URLS = ["https:///digg.com/"]
 
 ROOT_URLS = [
-	"https://digg.com/",
-	"https://www.yahoo.com",
-	"https://www.reddit.com",
-	"http://www.cnn.com",
-	"http://www.ebay.com",
-	"https://en.wikipedia.org/wiki/Main_Page",
-	"https://austin.craigslist.org/"
+	"https://instaloader.gq",
+	"https://instaloader.gq",
+	"https://instaloader.gq",
+	"https://instaloader.gq",
+	"https://instaloader.gq",
+	"https://instaloader.gq",
+	"https://instaloader.gq"
 	]
+
 
 
 # items can be a URL "https://t.co" or simple string to check for "amazon"
